@@ -1,3 +1,5 @@
+Tutorial obtenido de https://www.youtube.com/watch?v=YGCDAXFWAZo
+
 # DragDropAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
